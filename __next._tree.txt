@@ -1,4 +1,4 @@
 :HL["/grokbot-office-demo/_next/static/chunks/1gzu02roz8-qp.css","style"]
 :HL["/grokbot-office-demo/_next/static/chunks/0wniwo1h-tiab.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"nhI1mnEsVDq9yO_R3etZ5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"lZ3GpVNpH2WahqXNMoeVK","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
