@@ -1,1 +1,4 @@
-Sample-data demo of Bot 办公室 (示例数据 only; not live bot status).
+# grokbot-office-demo
+
+Public static build of bot-office. It shows sample data or a dated snapshot ("更新于"), not live status.
+The source repository is private.
